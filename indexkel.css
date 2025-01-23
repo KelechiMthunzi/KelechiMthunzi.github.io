@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    background-color: #ffffff;
+    /*background-color: rgb(54.36% 65.36% 76.77% / 74%);*/
+    outline:;
+}
+
+.main_container{
+    margin-left: 10px ;
+    margin-right: 10px;
+    outline:;
+}
+
+.icon1{
+    height: 90vh;
+    width: 100%;
+    background-color: #ffffff;
+    border:;
+    padding:10px;
+}
+.mynav{
+    color:#ffffff ;
+    background-color: #6200ee;
+    /*background-color:rgb(54.36% 65.36% 76.77% / 74%);*/
+}
+
+.mynav2{
+    height: 40px;
+    margin: auto;
+    padding:;
+    margin-top:;
+    border: ;
+    color: ;
+}
+
+
+.nav2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+.mynav3{
+    color: #ffffff;
+    background-color: #6200ee;
+}
+.namevar{
+    background-color: #4169e1;
+    padding: 8px;
+    color: #ffffff;
+    margin:auto ;
+    border-radius: 4px;
+}
+
+.homebar{
+    /*background-color: #d2d2d2;
+    /*border: 0.05px solid #4169e1;*/
+    font-weight: bold;
+    font-style: italic;
+
+}
+.boldtext{
+    font-weight: bold;
+}
+.icon2{
+    height: 14%;
+    width: 24%;
+
+
+}
+.iconvar{
+    text-align: center;
+}
+.skillstab{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    padding-left: 10px;
+}
+.databar{
+    font-weight: bold;
+    ;
+}
+.contmagin{
+    margin-top: 15px;
+    border: 0.5px #4169e1;
+}
+.iconimage{
+    height: 50%;
+    width: 65%;
+}
+
+.arti{
+    color: #9e7144;
+    text-decoration: none;
+    
+}
+a:hover, h5:hover{
+    color: #e0ef0a;
+    text-decoration: underline;
+
+}
+
+.brad{
+    border-radius: 5px;
+    height: 30px;
+    border:none; 
+    /*background-color: rgb(54.36% 65.36% 76.77% / 74%);*/
+    
+}
+.brad2{
+    height: 70px;
+    border-radius: 10px;
+    border: none;
+}
+.font1{
+    font-size: 3vw;
+}
+
+.logback{
+    background-image: url(indeximages/stata.jpg);
+    background-size: cover;
+
+}
+
+.mine{
+    height: 50px;
+    width: 70px;
+}

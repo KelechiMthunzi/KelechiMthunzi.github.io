@@ -1,0 +1,56 @@
+
+
+.container_main{
+    border: ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 16px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.cont_1{
+    color: white;
+    font-size: 2vw ;
+
+    background-color:  #47be67;
+}
+
+.excelpic {
+    border: ;
+    width: 100%;
+    
+}
+
+
+.cont_2{
+
+    background-color: #52b2bf;
+}
+
+.cont_6{
+
+    background-color: #99c68e;
+}
+
+.cont_4{
+
+    background-color: #1e3932;
+}
+
+.cont_5{
+
+    background-color: #dff9ba;
+}
+
+.cont_{
+    background-color: #d4e;
+}
+
+.cont_3{
+    background-color: rgb(206, 71, 71);
+}
